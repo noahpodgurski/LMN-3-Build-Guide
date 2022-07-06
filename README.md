@@ -244,7 +244,7 @@ Add the following text:
 [Desktop Entry]
 Type=Application
 Name=LMN-3
-Exec=/home/pi/LMN_start.sh
+Exec=sh /home/pi/LMN_start.sh
 ```
 
 Press ctrl+x to exit, and make sure and save the changes when prompted. 
